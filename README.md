@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Ephraim Zimmerman, I am a student at Brandeis University pursuing a B.S. in computer science w/ a math minor. In 2023 I launched a quant hedge fund that operates as an exempt reporting advisory (ERA) in the State of MA. The public repos on my GitHub are primarily for the Brandeis Quant Club in some capacity, a quant finance-focused society at Brandeis. 
 <!--
 **EphraimJZimmerman/EphraimJZimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
